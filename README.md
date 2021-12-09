@@ -5,9 +5,7 @@ Surfs-up challenge using sqllite and Flask
 Investing in Waves and Ice Cream:
 
 Interested in opening a Surf and Shake shop which serves ice cream and surf boards to locals and tourists on the Oahu island.  Need to do some analysis on weather dataset on the Oahu island to ensure that the weather conditions on the island will not be a problem for this type of business. 
-concerned about the amount of precipitation on Oahu. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
-
-Perform some analytics on  weather dataset from the Oahu island.
+There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
 
 
 ### Purpose:
@@ -32,12 +30,11 @@ Statistics on December Temperatures in Oahu:
 
 ![DecemberTemps.PNG](DecemberTemps.PNG)
 
-Points:
 - June temperature had more data points (1700) than December temperature (1517)
 - Standard deviation of temperature in December is 3.74 whereas in June it is 3.25.  June standard deviation is closer to the average temperature for the month than December is.
 - The minimum temperature in December was 56 degrees where as the minimum temperaturew in June was 64 degrees.
 - Average temperature in December was 71 degrees where as the average temperature in June was 74 degrees.
-The maximum temperature in December was 83 degrees where as in June it was 85 degrees
+- The maximum temperature in December was 83 degrees where as in June it was 85 degrees
 
 
 
