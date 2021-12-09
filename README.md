@@ -13,12 +13,12 @@ Perform some analytics on  weather dataset from the Oahu island.
 ### Purpose:
 Analyze temperature trends before opening the surf shop in order to determine if the surf and ice cream shop business is sustainable year-round.
 
-	- Analyze temperature data for the months of June in Oahu
-	- Analyze temperature data for the months of December in Oahu
+- Analyze temperature data for the months of June in Oahu
+- Analyze temperature data for the months of December in Oahu
 
 ## Resources: 
 
-Software: SQLite database, Jupyter notebook, VS Code, Flask
+Software: SQLite database, Jupyter notebook, VS Code
 
 ## Results
 
@@ -26,11 +26,11 @@ For this Python analysis, [hawaii.sqlite](hawaii.sqlite) database was used to re
 
 Statistics on June Temperatures in Oahu:
 
-![JuneTemps.png](JuneTemps.png)
+![JuneTemps.PNG](JuneTemps.PNG)
 
 Statistics on December Temperatures in Oahu:
 
-![DecemberTemps.png](DecemberTemps.png)
+![DecemberTemps.PNG](DecemberTemps.PNG)
 
 Points:
 - June temperature had more data points (1700) than December temperature (1517)
@@ -52,8 +52,9 @@ Similarly, the maximum temperature of December (83 degrees) is similar to the ma
 The minimum temperature of December (56 degrees) is similar to the min temperature of June (64 degrees). Neither 56 degrees nor 64 degrees is ideal for ice creams and surf board. This point is concerning.
 
 Two Additional Queries that can be performed to gather more weather data for June and December:
-    1): What is the temperature on the days it rains in December and in June.  Or does it rain on the days it is warm in December and June.
 
-    2) Find the most active stations and analyze the data from that station.
+- What is the temperature on the days it rains in December and in June.  Or does it rain on the days it is warm in December and June.
+
+- Find the most active stations and analyze the data from that station.
     
 
